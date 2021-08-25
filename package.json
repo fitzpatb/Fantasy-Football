@@ -29,10 +29,12 @@
   },
   "homepage": "https://github.com/fitzpatb/Fantasy#readme",
   "dependencies": {
+    "bootstrap": "^5.1.0",
     "express": "^4.17.1",
     "if-env": "^1.0.4",
     "mongoose": "^5.13.7",
     "react": "^17.0.2",
+    "react-bootstrap": "^2.0.0-beta.5",
     "react-dom": "^17.0.2",
     "react-router-dom": "^5.2.0"
   }

@@ -5,7 +5,7 @@ function Home() {
   return (
     <main>
       <div className="home container mx-auto">
-        <h1 className="text-5xl"><strong>Welcome To Fitzy's Fantasy Focus</strong></h1>
+        <h1 className="text-5xl"><strong>Welcome To Fitzy's Fantasy Focus it worked</strong></h1>
 
       </div>
       <div className="grid grid-cols-2 gap-4">
