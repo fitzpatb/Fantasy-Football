@@ -1,3 +1,4 @@
 module.exports = {
-  RBs: require('./RBs')
+  RBs: require('./RBs'),
+  Stories: require('./Stories')
 }
